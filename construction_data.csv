@@ -1,51 +1,51 @@
 Project,Phase,Category,Location,Date,Cost
-Project D,Deployment,Labour,Chicago,2023-05-29,9576.0
-Project A,Testing,Materials,Houston,2023-12-06,2008.0
-Project A,Testing,Miscellaneous,Chicago,2023-12-05,6500.0
-Project C,Testing,Equipment,Houston,2023-03-23,3636.0
-Project B,Development,Equipment,Chicago,2023-06-06,6924.0
-Project E,Development,Equipment,Los Angeles,2023-03-25,9950.0
-Project C,Deployment,Miscellaneous,Houston,2023-06-05,9528.0
-Project D,Development,Miscellaneous,Chicago,2023-06-14,5452.0
-Project C,Planning,Miscellaneous,Los Angeles,2023-09-08,5061.0
-Project D,Development,Labour,New York,2023-08-08,2715.0
-Project D,Development,Miscellaneous,Los Angeles,2023-09-02,6331.0
-Project D,Planning,Labour,Chicago,2023-09-07,8051.0
-Project B,Deployment,Miscellaneous,New York,2023-09-29,4635.0
-Project A,Testing,Materials,New York,2023-02-08,7343.0
-Project B,Planning,Materials,New York,2023-03-02,2073.0
-Project B,Planning,Miscellaneous,Phoenix,2023-05-26,2794.0
-Project A,Development,Equipment,New York,2023-07-04,1338.0
-Project E,Development,Materials,Houston,2023-09-21,6094.0
-Project E,Planning,Miscellaneous,Houston,2023-07-11,1738.0
-Project E,Planning,Labour,Los Angeles,2023-11-08,6079.0
-Project A,Development,Materials,Chicago,2023-05-08,5874.0
-Project C,Testing,Labour,Los Angeles,2023-03-05,1208.0
-Project C,Testing,Materials,Houston,2023-06-14,6892.0
-Project D,Development,Miscellaneous,Los Angeles,2023-03-29,2511.0
-Project D,Testing,Equipment,Phoenix,2023-04-24,3009.0
-Project D,Deployment,Labour,Houston,2023-05-03,9566.0
-Project B,Planning,Labour,New York,2023-03-12,2868.0
-Project D,Development,Materials,Los Angeles,2023-06-06,7592.0
-Project E,Testing,Miscellaneous,Los Angeles,2023-10-25,9864.0
-Project C,Planning,Miscellaneous,Phoenix,2023-09-02,7813.0
-Project C,Testing,Labour,Chicago,2023-11-23,1592.0
-Project C,Deployment,Equipment,New York,2023-01-25,9060.0
-Project D,Planning,Materials,New York,2023-05-06,8593.0
-Project E,Testing,Materials,New York,2023-02-01,5302.0
-Project E,Testing,Equipment,Chicago,2023-10-17,9321.0
-Project B,Development,Materials,Chicago,2023-01-06,3431.0
-Project D,Testing,Materials,Los Angeles,2023-07-28,8309.0
-Project D,Deployment,Miscellaneous,Chicago,2023-04-26,5739.0
-Project C,Deployment,Miscellaneous,New York,2023-03-22,1713.0
-Project C,Deployment,Miscellaneous,Houston,2023-07-10,4027.0
-Project C,Development,Materials,New York,2023-09-02,3224.0
-Project E,Planning,Miscellaneous,New York,2023-09-06,3388.0
-Project A,Development,Labour,Houston,2023-02-05,8288.0
-Project B,Testing,Labour,Phoenix,2023-02-20,8644.0
-Project E,Development,Miscellaneous,New York,2023-02-03,8732.0
-Project B,Development,Miscellaneous,Chicago,2023-05-17,2630.0
-Project D,Planning,Miscellaneous,New York,2023-07-09,2143.0
-Project D,Deployment,Miscellaneous,Houston,2023-09-13,1578.0
-Project A,Testing,Labour,Chicago,2023-10-28,6731.0
-Project B,Testing,Materials,Los Angeles,2023-12-14,2894.0
+Project D,Deployment,Labour,Chicago,2025-05-29,3636.0
+Project A,Testing,Materials,Houston,2025-03-23,6924.0
+Project A,Testing,Miscellaneous,Chicago,2025-06-06,9950.0
+Project C,Testing,Equipment,Houston,2025-03-25,9528.0
+Project B,Development,Equipment,Chicago,2025-06-05,5452.0
+Project E,Development,Equipment,Los Angeles,2025-06-14,5061.0
+Project C,Deployment,Miscellaneous,Houston,2025-09-08,2715.0
+Project D,Development,Miscellaneous,Chicago,2025-08-08,6331.0
+Project C,Planning,Miscellaneous,Los Angeles,2025-09-02,8051.0
+Project D,Development,Labour,New York,2025-09-07,4635.0
+Project D,Development,Miscellaneous,Los Angeles,2025-09-29,7343.0
+Project D,Planning,Labour,Chicago,2025-02-08,2073.0
+Project B,Deployment,Miscellaneous,New York,2025-03-02,2794.0
+Project A,Testing,Materials,New York,2025-05-26,1338.0
+Project B,Planning,Materials,New York,2025-07-04,6094.0
+Project B,Planning,Miscellaneous,Phoenix,2025-09-21,1738.0
+Project A,Development,Equipment,New York,2025-07-11,6079.0
+Project E,Development,Materials,Houston,2025-11-08,5874.0
+Project E,Planning,Miscellaneous,Houston,2025-05-08,1208.0
+Project E,Planning,Labour,Los Angeles,2025-03-05,6892.0
+Project A,Development,Materials,Chicago,2025-06-14,2511.0
+Project C,Testing,Labour,Los Angeles,2025-03-29,3009.0
+Project C,Testing,Materials,Houston,2025-04-24,9566.0
+Project D,Development,Miscellaneous,Los Angeles,2025-05-03,2868.0
+Project D,Testing,Equipment,Phoenix,2025-03-12,7592.0
+Project D,Deployment,Labour,Houston,2025-06-06,9864.0
+Project B,Planning,Labour,New York,2025-10-25,7813.0
+Project D,Development,Materials,Los Angeles,2025-09-02,1592.0
+Project E,Testing,Miscellaneous,Los Angeles,2025-01-25,9060.0
+Project C,Planning,Miscellaneous,Phoenix,2025-05-06,8593.0
+Project C,Testing,Labour,Chicago,2025-02-01,5302.0
+Project C,Deployment,Equipment,New York,2025-10-17,9321.0
+Project D,Planning,Materials,New York,2025-01-06,3431.0
+Project E,Testing,Materials,New York,2025-07-28,8309.0
+Project E,Testing,Equipment,Chicago,2025-04-26,5739.0
+Project B,Development,Materials,Chicago,2025-03-22,1713.0
+Project D,Testing,Materials,Los Angeles,2025-07-10,4027.0
+Project D,Deployment,Miscellaneous,Chicago,2025-09-02,3224.0
+Project C,Deployment,Miscellaneous,New York,2025-09-06,3388.0
+Project C,Deployment,Miscellaneous,Houston,2025-02-05,8288.0
+Project C,Development,Materials,New York,2025-02-20,8644.0
+Project E,Planning,Miscellaneous,New York,2025-02-03,8732.0
+Project A,Development,Labour,Houston,2025-05-17,2630.0
+Project B,Testing,Labour,Phoenix,2025-07-09,2143.0
+Project E,Development,Miscellaneous,New York,2025-09-13,1578.0
+Project B,Development,Miscellaneous,Chicago,2025-10-28,6731.0
+Project D,Planning,Miscellaneous,New York,2025-07-09,2894.0
+Project D,Deployment,Miscellaneous,Houston,2025-07-04,2988.0
+Project A,Testing,Labour,Chicago,2025-01-18,4901.0
+Project B,Testing,Materials,Los Angeles,2025-03-31,2895.0
