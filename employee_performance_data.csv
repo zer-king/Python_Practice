@@ -1,0 +1,11 @@
+Employee_Name,Department,Years_of_Experience,Training_Hours,Performace_Score,Promotion_Status
+Alice,Sales,4,64,4,Not Promoted
+Bob,Marketing,1,14,9,Not Promoted
+Charlie,Sales,9,13,7,Promoted
+David,Marketing,8,21,4,Promoted
+Eva,IT,8,37,8,Not Promoted
+Frank,Sales,5,39,10,Promoted
+Grace,Finance,4,74,5,Promoted
+Hannah,IT,18,87,1,Not Promoted
+Ian,Sales,3,13,3,Promoted
+Jack,Marketing,19,81,7,Not Promoted
